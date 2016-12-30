@@ -8,8 +8,13 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <RootNamespace>Latihan_2_1_</RootNamespace>
     <AssemblyName>Latihan_2_1</AssemblyName>
+=======
+    <RootNamespace>Latihan_2_1_Final_</RootNamespace>
+    <AssemblyName>Latihan_2_1%28Final%29</AssemblyName>
+>>>>>>> ca67c7307c2ccda21554de9fb2824b3e5eb9a0d9
 =======
     <RootNamespace>Latihan_2_1_Final_</RootNamespace>
     <AssemblyName>Latihan_2_1%28Final%29</AssemblyName>
@@ -69,7 +74,10 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <DesignTime>True</DesignTime>
+=======
+>>>>>>> ca67c7307c2ccda21554de9fb2824b3e5eb9a0d9
 =======
 >>>>>>> ca67c7307c2ccda21554de9fb2824b3e5eb9a0d9
     </Compile>
